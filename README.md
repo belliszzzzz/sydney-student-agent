@@ -1,3 +1,9 @@
+## 🎬 在线 Demo
+
+👉 https://sydney-student-agent.streamlit.app
+
+### Demo 截图
+
 <img width="1453" height="963" alt="image" src="https://github.com/user-attachments/assets/ab0927a9-1a2e-40fb-8398-230871b4edfa" />
 
 **Sydney International Student AI Assistant**
@@ -105,6 +111,7 @@ data/
 ## 👩‍💻 作者
 
 Bellis
+
 
 
 

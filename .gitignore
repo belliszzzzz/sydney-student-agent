@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# indexes / artifacts
+embeddings/
+*.faiss
+*_meta.json
+
+# streamlit
+.streamlit/
+

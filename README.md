@@ -1,4 +1,5 @@
 <img width="1453" height="963" alt="image" src="https://github.com/user-attachments/assets/ab0927a9-1a2e-40fb-8398-230871b4edfa" />
+
 #**Sydney International Student AI Assistant**
 
 一个面向澳洲留学生日常生活场景的 AI 助手，基于 **RAG（检索增强生成）+ 多模块 Agent 架构**，支持交通、手机套餐、医疗保险及大学事务等咨询，并具备多轮对话能力。
@@ -104,5 +105,6 @@ data/
 ## 👩‍💻 作者
 
 Bellis
+
 
 
